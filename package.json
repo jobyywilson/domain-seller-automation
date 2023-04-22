@@ -1,0 +1,19 @@
+{
+  "name": "domain-seller-auto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "mocha --no-warnings index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^112.0.0",
+    "events": "^3.3.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
